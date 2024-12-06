@@ -1,40 +1,49 @@
-Student Q&A Platform
-A CRUD-based web application for students to post and manage coursework-related questions.
+Geography Quiz Game
+![Geography Quiz Game][]
 
+📋 Table of Contents
+Overview
 Features
-View, create, edit, and delete questions/posts
-Image/screenshot upload functionality for posts
-User management system (create, edit, delete users)
-Module assignment for questions
-Module management system
-Contact form for administrator communication
-
-Technologies
-PHP (PDO)
-MySQL
-HTML5/CSS3
-JavaScript
-
 Installation
-Clone or download the repository
-Import the database schema from database/schema.sql
-Configure database connection in config/database.php
-Update email settings in config/mail.php
-Ensure proper file permissions for image uploads
-
 Usage
-Access the platform through web browser
-Register/login to create or manage posts
-Navigate to admin panel for user/module management
-Use contact form for administrator communication
+Technical Details
+Development
 Contributing
-This is an individual coursework project. Contributions are not accepted.
-
 License
-For educational purposes only.
+🌍 Overview
+A dynamic, interactive Geography Quiz Game built with C# and Windows Forms. Test your geographical knowledge with multiple question types and track your progress!
 
-Notes
-Do not use MySQLi
-Implement proper form validation
-Ensure database relationships demonstrate referential integrity
-Document any additional functionality beyond core requirements
+✨ Features
+🎯 Question Types
+1️⃣ Multiple Choice Questions
+Four possible answers
+Single correct option
+Clear option selection
+2️⃣ Open-Ended Questions
+Free-text responses
+Multiple accepted answers
+Flexible answer matching
+
+3️⃣ True/False Questions
+Statement validation
+Simple true/false input
+Quick response format
+🗺️ Geographic Regions
+🌎 World
+🌎 Americas
+🌍 Europe
+🌏 Asia
+🌍 Africa
+🌏 Oceania
+
+System Requirements
+Component	Requirement
+OS	Windows 10/11
+Framework	.NET 6.0+
+Memory	4GB+ RAM
+Storage	100MB
+
+📫 Contact
+Your Name - @TDisokay
+
+Project Link: https://github.com/TDisokay/geography-quiz-game
